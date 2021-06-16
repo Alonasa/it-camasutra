@@ -1,0 +1,33 @@
+body {
+  text-transform: uppercase;
+}
+.main-content {
+  padding: 0;
+  margin: 0 auto;
+  width: 561px;
+  text-align: center;
+}
+
+img {
+  margin-bottom: 38px;
+}
+
+input[type='text'] {
+  width: 100%;
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  border-radius: 25px;
+  border: 2px solid red;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.search {
+  width: 50%;
+  padding: 20px;
+  background-color: green;
+  font-size: 36px;
+  color: white;
+  border-radius: 25px;
+}
